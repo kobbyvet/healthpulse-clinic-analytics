@@ -116,7 +116,6 @@ denormalised dataset:
 
 
 ---
-
 ## How to Run
 1. Load the raw dataset into PostgreSQL as 
    `staging_appointments`
